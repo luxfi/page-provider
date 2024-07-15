@@ -29,5 +29,6 @@
     "lodash": "^4.17.21",
     "sinon-chrome": "^3.0.1",
     "webextension-polyfill": "0.7.0"
-  }
+  },
+  "types": "./dist/index.d.ts"
 }
