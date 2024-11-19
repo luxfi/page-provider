@@ -1,0 +1,20 @@
+{
+  "name": "@luxfi/page-provider",
+  "version": "1.8.13",
+  "description": "page provider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luxfi/page-provider.git"
+  },
+  "author": "kaori",
+  "license": "ISC",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/luxfi/page-provider/issues"
+  },
+  "homepage": "https://github.com/luxfi/page-provider#readme"
+}
