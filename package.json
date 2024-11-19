@@ -1,6 +1,6 @@
 {
   "name": "@luxfi/page-provider",
-  "version": "1.8.14",
+  "version": "1.8.15",
   "description": "node module",
   "main": "dist/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "build": "rollup -c"
   },
   "keywords": [],
-  "author": "",
+  "author": "kaori",
   "license": "ISC",
   "devDependencies": {
     "@rollup/plugin-image": "^2.1.1",
