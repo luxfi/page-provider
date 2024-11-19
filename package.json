@@ -1,7 +1,7 @@
 {
   "name": "@luxfi/page-provider",
-  "version": "1.8.13",
-  "description": "",
+  "version": "1.8.14",
+  "description": "node module",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -30,5 +30,13 @@
     "sinon-chrome": "^3.0.1",
     "webextension-polyfill": "0.7.0"
   },
-  "types": "./dist/index.d.ts"
+  "types": "./dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luxfi/page-provider.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luxfi/page-provider/issues"
+  },
+  "homepage": "https://github.com/luxfi/page-provider#readme"
 }
